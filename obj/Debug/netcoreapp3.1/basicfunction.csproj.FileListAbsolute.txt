@@ -1,0 +1,11 @@
+d:\Users\bsi80091\Documents\dotnet\basicfunction\bin\Debug\netcoreapp3.1\basicfunction.exe
+D:\Users\bsi80091\Documents\dotnet\basicfunction\bin\Debug\netcoreapp3.1\basicfunction.deps.json
+D:\Users\bsi80091\Documents\dotnet\basicfunction\bin\Debug\netcoreapp3.1\basicfunction.runtimeconfig.json
+D:\Users\bsi80091\Documents\dotnet\basicfunction\bin\Debug\netcoreapp3.1\basicfunction.runtimeconfig.dev.json
+d:\Users\bsi80091\Documents\dotnet\basicfunction\bin\Debug\netcoreapp3.1\basicfunction.dll
+d:\Users\bsi80091\Documents\dotnet\basicfunction\bin\Debug\netcoreapp3.1\basicfunction.pdb
+d:\Users\bsi80091\Documents\dotnet\basicfunction\obj\Debug\netcoreapp3.1\basicfunction.csprojAssemblyReference.cache
+d:\Users\bsi80091\Documents\dotnet\basicfunction\obj\Debug\netcoreapp3.1\basicfunction.AssemblyInfoInputs.cache
+d:\Users\bsi80091\Documents\dotnet\basicfunction\obj\Debug\netcoreapp3.1\basicfunction.AssemblyInfo.cs
+d:\Users\bsi80091\Documents\dotnet\basicfunction\obj\Debug\netcoreapp3.1\basicfunction.dll
+d:\Users\bsi80091\Documents\dotnet\basicfunction\obj\Debug\netcoreapp3.1\basicfunction.pdb
